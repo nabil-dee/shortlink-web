@@ -1,34 +1,20 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 50px;
-}
-
-h1 {
-    color: #333;
-}
-
-p {
-    color: #666;
-}
 /* Mengatur tampilan halaman */
 body {
-  background-color: #f4f4f4; /* Warna latar belakang */
-  font-family: Arial, sans-serif;
-  text-align: center; /* Teks rata tengah */
-  padding: 50px;
+    background-color: #f4f4f4; /* Warna latar belakang */
+    font-family: Arial, sans-serif;
+    text-align: center; /* Teks rata tengah */
+    padding: 50px;
+    margin: 0;
 }
 
 /* Mengatur tampilan judul */
 h1 {
-  color: #333; /* Warna teks */
-  font-size: 28px;
+    color: #333; /* Warna teks */
+    font-size: 28px;
 }
 
 /* Mengatur tampilan paragraf */
 p {
-  color: #666;
-  font-size: 18px;
+    color: #666;
+    font-size: 18px;
 }
